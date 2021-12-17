@@ -34,7 +34,7 @@ li {
 }
 
 a {
-    color: white;
+    color: #f9faf8;
     text-decoration: none;
 }
 
@@ -92,7 +92,6 @@ a {
     padding: 20px 0;
     font-size: 36px;
     font-weight: bolder;
-
 }
 
 .cook, .travel, .photo, .movie {
