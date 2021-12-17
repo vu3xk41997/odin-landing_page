@@ -1,13 +1,26 @@
 # odin-landing_page
 landing page project for The Odin Project
 
-HTML:
+## HTML:
 * header
 * body
 * footer
+* div
 * a
 * img
-* div
+* button
+* blockquote
+* figcaption
+* input
 
-CSS:
+## CSS:
+* display
 * flexbox
+* font
+* background-color
+* color
+* text-align
+* margin
+* padding
+* gap
+* border
